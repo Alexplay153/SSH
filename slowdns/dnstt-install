@@ -1,0 +1,1 @@
+rm -rf install; wget https://raw.githubusercontent.com/Alexplay153/SSH/main/world/slowdns/install; chmod +x install; ./install
